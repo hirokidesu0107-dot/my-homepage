@@ -1,0 +1,19 @@
+body {
+  background-color: #ffffff;
+  font-family: sans-serif;
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 20px;
+}
+
+h1 {
+  color: #b22f26;
+}
+
+h2 {
+  color: #000000;
+}
+
+p {
+  color: #5a0101;
+}
